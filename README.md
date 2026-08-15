@@ -1,2 +1,2 @@
-# pscp-maps
-A bunch of maps for PSCP.
+# PSCP Maps
+Do not use these without crediting me or having permission to use it without credits.
